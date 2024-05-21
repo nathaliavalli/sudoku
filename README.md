@@ -14,14 +14,9 @@ Checks for the validity of each move to ensure correctness.
 Usage
 
 Clone or download the repository to your local machine.
-Compile the sudoku.java file using the following command:
-Copy code
-javac sudoku.java
-Run the compiled program using the following command:
-Copy code
+Compile the sudoku.java file 
+Run the compiled program 
 
-
-java sudoku
 The Sudoku puzzle to be solved is defined within the main method of the sudoku.java file.
 Modify the Sudoku puzzle by changing the values in the Sudoku game array.
 Run the program to solve the Sudoku puzzle.
